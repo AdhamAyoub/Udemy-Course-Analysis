@@ -1,4 +1,5 @@
 # **Udemy Finance Analysis Project**  
+![Udemy Finance Dashboard](visual/Dashboard.png)
 
 ## 📌 About This Project  
 This project analyzes Udemy finance courses by cleaning and transforming raw data, categorizing information, and visualizing key insights using **Python and Power BI**. The goal is to identify trends in course ratings, subscriptions, pricing, and user engagement over time.  
